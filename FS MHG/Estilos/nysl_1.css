@@ -1,0 +1,38 @@
+body{
+background-image: url(imagenesCss/soccer_image4.jpg);
+background-size: cover;
+background-repeat: repeat-x;
+}
+
+header{
+    width: 100%;
+    height: 250px;
+    height: 250px;
+}
+
+.logo{
+    float: right;
+}
+
+.navegador{
+    width: 25%;
+    height: 343px;
+    display: inline-block;
+    background-color: aqua;
+}
+
+.articulos{
+    width: 75%;
+    float: right;
+    display: inline-block;
+    background-color: aqua;
+}
+
+a{
+    display: block;
+}
+
+#margenBoton{
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
